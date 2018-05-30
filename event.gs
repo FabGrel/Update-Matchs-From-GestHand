@@ -8,7 +8,3 @@ function deleteEvent(calendar, eventID) {
   event.deleteEvent();
   return true;
 }
-
-function test() {
-  return true;
-}
