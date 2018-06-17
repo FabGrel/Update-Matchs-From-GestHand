@@ -1,3 +1,7 @@
+function test() {
+	
+}
+
 // Permet de supprimer des agendas Google tous les événements présents dans le fichier Gest'Hand. 
 // Utile notamment si une erreur est survenue, ou pour faire du debug.
 function reInitEventsv2() {
